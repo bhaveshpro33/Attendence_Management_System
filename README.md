@@ -1,4 +1,4 @@
-Here's an enhanced version of your `README.md` with more details:
+
 
 ---
 
